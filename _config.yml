@@ -1,0 +1,14 @@
+layout_spectrum: 0.8018684037961066
+typography_spectrum: 0.7639715566765517
+color:
+  brandStrength: 0.45170624926686287
+  lightness: 0.46814788738265634
+  saturation: 0.6821339598391205
+  rhythmicContrast: 0.9129660376347601
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Feed Your Brain
